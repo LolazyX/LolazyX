@@ -98,7 +98,7 @@
 <br clear="both">
 
 <div align="center">
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=312iybsxe5wtl6mt5hflidbvtnby)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312iybsxe5wtl6mt5hflidbvtnby)
 </div>
 
 ###
