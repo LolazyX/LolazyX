@@ -98,7 +98,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312iybsxe5wtl6mt5hflidbvtnby)
 </div>
 
 ###
