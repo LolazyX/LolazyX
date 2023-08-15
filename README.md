@@ -99,16 +99,8 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/lolazy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312iybsxe5wtl6mt5hflidbvtnby&count=1&width=max-width&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312iybsxe5wtl6mt5hflidbvtnby&count=1&width=2000&unique=false" alt="Spotify recently played"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LolazyX.LolazyX&right_color=purple"  />
 </div>
 
 ###
