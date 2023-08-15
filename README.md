@@ -98,7 +98,7 @@
 <br clear="both">
 
 <div align="center">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312iybsxe5wtl6mt5hflidbvtnby)
+  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=312iybsxe5wtl6mt5hflidbvtnby)](https://open.spotify.com/user/lolazy)
 </div>
 
 ###
