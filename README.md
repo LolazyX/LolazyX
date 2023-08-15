@@ -86,7 +86,3 @@
 </div>
 
 ###
-
-<img align="left" height="150" src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif"  />
-
-###
